@@ -59,8 +59,6 @@ github.com/phenpessoa/gutils v0.0.0-20240130030144-d391b9329afd h1:vQJI+K22CnhvT
 github.com/phenpessoa/gutils v0.0.0-20240130030144-d391b9329afd/go.mod h1:UGKE349qaz7dfnzVzCoJkeNM6TuPoqXvbdYEJmov5Qk=
 github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
 github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
-github.com/rocketseat-education/nlw-journey-go v0.0.0-20240709154252-fff52a5cddc4 h1:i9UCGyPrCCzwzzt0nl7vLWm9MTmTk8GL4xadpxCW6yA=
-github.com/rocketseat-education/nlw-journey-go v0.0.0-20240709154252-fff52a5cddc4/go.mod h1:H4aC4AzmhZ8t6XlhVnOTv6s2+QOGnN5Vg7B/RuQp6xI=
 github.com/rogpeppe/go-internal v1.12.0 h1:exVL4IDcn6na9z1rAb56Vxr+CgyK3nn3O+epU5NdKM8=
 github.com/rogpeppe/go-internal v1.12.0/go.mod h1:E+RYuTGaKKdloAfM02xzb0FW3Paa99yedzYV+kq4uf4=
 github.com/stretchr/objx v0.1.0/go.mod h1:HFkY916IF+rwdDfMAkV7OtwuqBVzrE8GR6GFx+wExME=
@@ -70,6 +68,8 @@ github.com/stretchr/testify v1.9.0 h1:HtqpIVDClZ4nwg75+f6Lvsy/wHu+3BoSGCbBAcpTsT
 github.com/stretchr/testify v1.9.0/go.mod h1:r2ic/lqez/lEtzL7wO/rwa5dbSLXVDPFyf8C91i36aY=
 github.com/ugorji/go/codec v1.2.7 h1:YPXUKf7fYbp/y8xloBqZOw2qaVggbfwMlI8WM3wZUJ0=
 github.com/ugorji/go/codec v1.2.7/go.mod h1:WGN1fab3R1fzQlVQTkfxVtIBhWDRqOviHU95kRgeqEY=
+github.com/wneessen/go-mail v0.4.2 h1:wISuU9LOGqrA7pxy7OipRtwoExXTzuGKmAjb8gYwc00=
+github.com/wneessen/go-mail v0.4.2/go.mod h1:zxOlafWCP/r6FEhAaRgH4IC1vg2YXxO0Nar9u0IScZ8=
 go.uber.org/goleak v1.3.0 h1:2K3zAYmnTNqV73imy9J1T3WC+gmCePx2hEGkimedGto=
 go.uber.org/goleak v1.3.0/go.mod h1:CoHD4mav9JJNrW/WLlf7HGZPjdw8EucARQHekz1X6bE=
 go.uber.org/multierr v1.11.0 h1:blXXJkSxSSfBVBlC76pxqeO+LN3aDfLQo+309xJstO0=
