@@ -147,6 +147,7 @@ SELECT
 FROM activities
 WHERE
     trip_id = $1
+ORDER BY occurs_at
 `
 
 func (q *Queries) GetTripActivities(ctx context.Context, tripID uuid.UUID) ([]Activity, error) {

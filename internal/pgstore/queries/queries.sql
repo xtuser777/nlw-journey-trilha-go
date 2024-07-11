@@ -60,7 +60,8 @@ SELECT
     "id", "trip_id", "title", "occurs_at"
 FROM activities
 WHERE
-    trip_id = $1;
+    trip_id = $1
+ORDER BY occurs_at;
 
 -- name: CreateTripLink :one
 INSERT INTO links
